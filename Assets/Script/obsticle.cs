@@ -1,0 +1,20 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class obsticle : MonoBehaviour
+{
+    [SerializeField] ParticleSystem woodBreakFX;
+    // Start is called before the first frame update
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        woodBreakFX.Play();
+        Destroy(gameObject);
+    }
+
+    private void Start()
+    {
+    }
+
+}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1882a412dc58904409ed462edad997f4
+  - enabled: 1
+    path: Assets/Scenes/Select.unity
+    guid: 8dfab32a04bb14543ac7819c098b3b90
+  - enabled: 0
+    path: Assets/Scenes/Controls.unity
+    guid: 588322a100bdc6246a4b1c4dc310e919
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Easy.unity
+    guid: a4fb29234f8ce6746822011771d7c623
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Easy.unity
+    guid: b1c08aa7becc534479def46045232c16
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Easy.unity
+    guid: 0eed32fd092bab742b190c3614969e74
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ChillWin.unity
+    guid: 880ce0214a3984347830159027a6646e
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Hard.unity
+    guid: bec16f7a3fe78a54b8cc3a727c776d0c
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Hard.unity
+    guid: 26e4a1e39499e8741a7e687dbec8b4d9
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Hard.unity
+    guid: 349fd746d2ad6c74093d42fa5651b81a
+  - enabled: 1
+    path: Assets/Scenes/ChallengingWin.unity
+    guid: 1fa48da44f9f0254d902c0dabe5dd2df
+  m_configObjects: {}
